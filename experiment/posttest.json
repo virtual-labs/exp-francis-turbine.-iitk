@@ -4,10 +4,10 @@
     {
       "question": "1.Reason for gradual decrease in cross-sectional area of the Spiral casing of the Francis turbine from the entrance to the tip is:",
       "answers": {
-        "a": "a)To ensure constant velocity ",
-        "b": "b)To prevent loss of efficiency of the turbine due to friction",
-        "c": "c)To prevent leakage from the turbine",
-        "d": "d)To reduce material used, hence making it economical"
+        "a": "To ensure constant velocity ",
+        "b": "To prevent loss of efficiency of the turbine due to friction",
+        "c": "To prevent leakage from the turbine",
+        "d": "To reduce material used, hence making it economical"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -21,10 +21,10 @@
     {
       "question": "2.……………………. is defined as the ratio between the power available at the shaft to the power supplied by water at the inlet",
       "answers": {
-        "a": "a)Hydraulic efficiency",
-        "b": "b)Volumetric efficiency",
-        "c": "c)Mechanical efficiency",
-        "d": "d)Overall efficiency"
+        "a": "Hydraulic efficiency",
+        "b": "Volumetric efficiency",
+        "c": "Mechanical efficiency",
+        "d": "Overall efficiency"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
