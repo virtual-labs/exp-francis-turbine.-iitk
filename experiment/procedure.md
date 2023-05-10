@@ -1,6 +1,6 @@
 ### Procedure – <br><br>
 8.1	Experimental Setup<br><br>
-<images src="images/image1.png"><br><br>
+<image src="images/image1.png"><br><br>
 1.	A Francis turbine with an arrangement for adjusting the guide vane positions (hand wheel with suitable link mechanisms)<br><br>
 2.	Supply pump unit.<br><br>
 3.	Flow measurement unit (viz. venturi meter with manometer)<br><br>
@@ -15,7 +15,7 @@ V<sub>2</sub> is absolute velocity of water leaving<br><br>
 Q= discharge<br><br>
 d<sub>1</sub>= Dia. of Inlet pipe <br><br>
 d<sub>2</sub>= Dia. of outlet pipe<br><br>
-2. H= (P<sub>1</sub>/w-P<sub>2</sub>/w)+ (V<sub>1</sub><sup>2</sup>- 〖V<sub>2</sub><sup>2</sup>/2g)+ (Z<sub>1</sub>- Z<sub>2</sub> )<br>
+2. H= (P<sub>1</sub>/w-P<sub>2</sub>/w)+ (V<sub>1</sub><sup>2</sup>- V<sub>2</sub><sup>2</sup>/2g)+ (Z<sub>1</sub>- Z<sub>2</sub> )<br>
 Where, Z<sub>1</sub> = Distance of inlet pressure gauge from turbine axis  <br><br>
 Z<sub>2</sub>  =Distance of inlet pressure gauge from turbine axis 
 w = Specific weight of water<br><br>
