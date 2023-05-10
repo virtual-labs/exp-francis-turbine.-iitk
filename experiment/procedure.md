@@ -1,4 +1,32 @@
 ### Procedure – <br><br>
+8.1	Experimental Setup<br><br>
+<images src="images/image1.png"><br><br>
+1.	A Francis turbine with an arrangement for adjusting the guide vane positions (hand wheel with suitable link mechanisms)<br><br>
+2.	Supply pump unit.<br><br>
+3.	Flow measurement unit (viz. venturi meter with manometer)<br><br>
+4.	Tachometer.<br><br>
+5.	Pressure gauges at the inlet and outlet of turbine.<br><br>
+6.	Rope brake dynamometer with spring balance connected to the turbine shaft.<br><br>
+8.2	Formulae <br><br>
+1.	V_<sub>1</sub>=Q/((π/4) 〖d_<sub>1</sub>>〗^<sup>2</sup> )      V_<sub>2</sub>=Q/((π/4) 〖d_<sub>2</sub>〗^<sup>2</sup> )
+
+Where V_<sub>1</sub> is absolute velocity of water entering
+            V_<sub>2</sub> is absolute velocity of water leaving
+           Q= discharge
+           d_<sub>1</sub>= Dia. of Inlet pipe 
+           d_<sub>2</sub>= Dia. of outlet pipe
+
+	H= (P_<sub>1</sub>/w-P_<sub>2</sub>/w)+ (〖V_<sub>1</sub>〗^2- 〖V_2〗^2/2g)+ (Z_<sub>1</sub>- Z_2 )
+Where, Z_1 = Distance of inlet pressure gauge from turbine axis  
+            Z_2  =Distance of inlet pressure gauge from turbine axis 
+            w = Specific weight of water
+
+	Input power: P_i=(w×Q×H)/75 
+	Output Power: P_o=((W-S)×π×D×N)/4500
+Where, D = Mean Diameter of the break drum
+                          N = Speed of motor in RPM
+
+	η=P_o/P_i ×100
 
 	1. Note the inlet and outlet pipe diameters and measure the brake drum diameter and Z_1 and Z_2 i.e. the distances of inlet and outlet pressures gauge tapings from the centerline of the turbine.<br><br>
 	2. Start the supply pump, keeping the guide vanes completely closed<br><br>
