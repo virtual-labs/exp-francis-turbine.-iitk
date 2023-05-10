@@ -1,6 +1,6 @@
 ### Procedure – <br><br>
 8.1	Experimental Setup<br><br>
-<image src="images/image1.png"><br><br>
+<image src="images/image6.png"><br><br>
 1.	A Francis turbine with an arrangement for adjusting the guide vane positions (hand wheel with suitable link mechanisms)<br><br>
 2.	Supply pump unit.<br><br>
 3.	Flow measurement unit (viz. venturi meter with manometer)<br><br>
