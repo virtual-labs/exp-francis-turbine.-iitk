@@ -2,12 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1) Which one of the following statements is true?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Both Pelton and Francis turbine are impulse turbine",
+        "b": "Kaplan turbine is radial flow reaction turbine",
+        "c": "Francis turbine is mixed flow reaction turbine",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2) For which of the following minimum values of available heads may Francis turbine be used?",
+      "answers": {
+        "a": "250 m",
+        "b": "150 m",
+        "c": "100 m",
+        "d": "40 m"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3) Which turbine has maximum number of blades:",
+      "answers": {
+        "a": "Pelton",
+        "b": "Francis",
+        "c": "Kaplan",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4)In Francis turbine, pressure at inlet is ………. than the pressure at outlet:",
+      "answers": {
+        "a": "more",
+        "b": "same",
+        "c": "less",
+        "d": "None of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +70,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "5) Available head in case of Francis turbine is converted:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "completely into velocity head",
+        "b": "completely into pressure head",
+        "c": "partially into velocity head and pressure head",
+        "d": "None of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +84,90 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },{
+      "question": "6) Cross section of blade of a Francis turbine is ____________",
+      "answers": {
+        "a": "oval",
+        "b": "square ",
+        "c": "rectangular",
+        "d": "airfoil"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7) A Francis turbine is:  ________ ",
+      "answers": {
+        "a": "inward flow reaction turbine",
+        "b": "inward flow impulse turbine",
+        "c": "outward flow reaction turbine",
+        "d": "outward flow impulse turbine"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8) ________ is a major problem with Francis turbine",
+      "answers": {
+        "a": "Efficiency",
+        "b": "Installation",
+        "c": "Speed regulation",
+        "d": "Cavitation"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9)The outlet of the Francis turbine is through _______",
+      "answers": {
+        "a": "Vane Blades",
+        "b": "Draft tube",
+        "c": "Directly to atmosphere",
+        "d": "Pump"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10)The power output of Francis turbine ranges from__________",
+      "answers": {
+        "a": "5 kW to 800 MW",
+        "b": "1000 kW to 2000 MW",
+        "c": "2000 kW to 3000 MW",
+        "d": "5000 kW and above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
