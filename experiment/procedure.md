@@ -16,19 +16,19 @@ Where V_<sub>1</sub> is absolute velocity of water entering
            d_<sub>1</sub>= Dia. of Inlet pipe 
            d_<sub>2</sub>= Dia. of outlet pipe
 
-	H= (P_<sub>1</sub>/w-P_<sub>2</sub>/w)+ (〖V_<sub>1</sub>〗^2- 〖V_2〗^2/2g)+ (Z_<sub>1</sub>- Z_2 )
-Where, Z_1 = Distance of inlet pressure gauge from turbine axis  
-            Z_2  =Distance of inlet pressure gauge from turbine axis 
+	H= (P<sub>1</sub>/w-P_<sub>2</sub>/w)+ (〖V_<sub>1</sub>〗^2- 〖V_2〗^2/2g)+ (Z_<sub>1</sub>- Z_2 )
+Where, Z_<sub>1</sub> = Distance of inlet pressure gauge from turbine axis  
+            Z_<sub>2</sub>  =Distance of inlet pressure gauge from turbine axis 
             w = Specific weight of water
 
-	Input power: P_i=(w×Q×H)/75 
-	Output Power: P_o=((W-S)×π×D×N)/4500
+	Input power: P_<sub>i</sub>=(w×Q×H)/75 
+	Output Power: P_<sub>o</sub>=((W-S)×π×D×N)/4500
 Where, D = Mean Diameter of the break drum
                           N = Speed of motor in RPM
 
-	η=P_o/P_i ×100
+	η=P_<sub>o</sub>/P_i ×100
 
-	1. Note the inlet and outlet pipe diameters and measure the brake drum diameter and Z_1 and Z_2 i.e. the distances of inlet and outlet pressures gauge tapings from the centerline of the turbine.<br><br>
+	1. Note the inlet and outlet pipe diameters and measure the brake drum diameter and Z_<sub>1</sub> and Z_<sub>2</sub> i.e. the distances of inlet and outlet pressures gauge tapings from the centerline of the turbine.<br><br>
 	2. Start the supply pump, keeping the guide vanes completely closed<br><br>
 	3. Open the guide vanes partially (e.g.  1⁄4 or 1⁄2   of total opening),<br><br>
 	4. Measure the discharge Q <br><br>
