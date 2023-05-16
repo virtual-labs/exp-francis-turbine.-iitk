@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.Reason for gradual decrease in cross-sectional area of the Spiral casing of the Francis turbine from the entrance to the tip is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To ensure constant velocity ",
+        "b": "To prevent loss of efficiency of the turbine due to friction",
+        "c": "To prevent leakage from the turbine",
+        "d": "To reduce material used, hence making it economical"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,63 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.……………………. is defined as the ratio between the power available at the shaft to the power supplied by water at the inlet",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Hydraulic efficiency",
+        "b": "Volumetric efficiency",
+        "c": "Mechanical efficiency",
+        "d": "Overall efficiency"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.…………………… is defined as the ratio between the power produced by runner to the power supplied by water at the inlet",
+      "answers": {
+        "a": "Hydraulic efficiency",
+        "b": "Volumetric efficiency",
+        "c": "Mechanical efficiency",
+        "d": "Overall efficiency"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.……………………………. is defined as the ratio between total quantity of water over runner blades to total quantity of water supplied to turbine",
+      "answers": {
+        "a": "Hydraulic efficiency",
+        "b": "Volumetric efficiency",
+        "c": "Mechanical efficiencyanswer3",
+        "d": "Overall efficiency"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5.……………………………. is defined as the ratio between the power available at the shaft of the turbine to the power produced by the runner",
+      "answers": {
+        "a": "Hydraulic efficiency",
+        "b": "Volumetric efficiency",
+        "c": "Mechanical efficiency",
+        "d": "Overall efficiency"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +84,91 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6.……………………………… converts the dynamic pressure (kinetic energy) into static pressure",
+      "answers": {
+        "a": "Draft tube",
+        "b": "Conduits",
+        "c": "Penstock",
+        "d": "Runner"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7.Hydraulic turbine converts hydro energy into mechanical by using ……………. of water",
+      "answers": {
+        "a": "Potential energy",
+        "b": "Kinetic energy",
+        "c": "both (a) and (b)",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8.Cavitation occurs at ……………………….",
+      "answers": {
+        "a": "High pressure",
+        "b": "Low pressure",
+        "c": "Atmospheric pressure",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9.In cavitation, the material fails due to ………………………….",
+      "answers": {
+        "a": "Erosion",
+        "b": "Creep",
+        "c": "Impact load",
+        "d": "Fracture"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10.In mixed flow turbines, the water enters the runner ………………… and comes out ……………….",
+      "answers": {
+        "a": "Axially, radially",
+        "b": "Radially, axially",
+        "c": "Both (a) and (b)",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
