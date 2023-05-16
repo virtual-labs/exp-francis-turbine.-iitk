@@ -1,10 +1,12 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Fluid Mechanics Lab
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Fluid Mechanics Lab
+<b> Experiment|     <b> Conducting experiments and drawing the
+characteristics curves of Francis turbine.
+
 
 ### About the Experiment 
 
@@ -12,7 +14,7 @@ Fill a brief description of this experiment here
 
 <b>Name of Developer | <b> Fill the name of experiment owner here 
 :--|:--|
-<b> Institute | <b>  
+<b> Institute | <b>  IIT Kanpur
 <b> Email id|     <b>  
 <b> Department |  
 
