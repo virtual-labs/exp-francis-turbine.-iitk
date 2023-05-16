@@ -4,8 +4,8 @@
 <b>Discipline | <b>Fluid Mechanics 
 :--|:--|
 <b> Lab | <b> Fluid Mechanics Lab
-<b> Experiment|     <b> Conducting experiments and drawing the
-                        characteristics curves of Francis turbine.
+<b> Experiment|     <b> Conducting experiments and drawing the characteristics curves of Francis turbine.
+                        
 
 
 ### About the Experiment 
