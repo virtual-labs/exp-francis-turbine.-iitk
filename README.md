@@ -1,22 +1,22 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fluid Mechanics Lab
+<b>Discipline | <b>Fluid Mechanics 
 :--|:--|
 <b> Lab | <b> Fluid Mechanics Lab
 <b> Experiment|     <b> Conducting experiments and drawing the
-characteristics curves of Francis turbine.
+                        characteristics curves of Francis turbine.
 
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Prof. J. Ramkumar
 :--|:--|
 <b> Institute | <b>  IIT Kanpur
-<b> Email id|     <b>  
-<b> Department |  
+<b> Email id|     <b> jrkumar@iitk.ac.in 
+<b> Department |  Mechanical Engineering Department
 
 ### Contributors List
 
