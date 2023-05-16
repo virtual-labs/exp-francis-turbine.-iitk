@@ -14,7 +14,7 @@ Fill a brief description of this experiment here
 
 <b>Name of Developer | <b> Fill the name of experiment owner here 
 :--|:--|
-<b> IIT Kanpur | <b>  
+<b> Institute | <b>  IIT Kanpur
 <b> Email id|     <b>  
 <b> Department |  
 
