@@ -25,7 +25,7 @@ The pressure at the exit of the runner of Francis Turbine is generally less than
 <b>Working of Francis Turbine</b><br><br>
 •	With help of the penstock the water is brought to the runner through wicket gates from the reservoir. According to the loading conditions the opening between the vanes can be adjusted to vary the quantity of water entering the turbine through governing mechanism.<br>
 •	The water enters the runner at a high pressure but with a low velocity. As the water flows over the vanes the pressure head is gradually converted into velocity head. The kinetic energy generated is the cause of rotation of the turbine. In other words, the hydraulic energy is converted into mechanical energy.<br>
-•	The water leaving the runner enters the tailrace after passing through the draft tube which enlarges gradually and the enlarged end is submerged deeply in the tailrace water. Due to this arrangement a suction head is created at the exit of the runner.<br>
+•	The water leaving the runner enters the tailrace after passing through the draft tube which enlarges gradually and the enlarged end is submerged deeply in the tailrace water. Due to this arrangement a suction head is created at the exit of the runner.<br><br>
 <b>Advantages of Francis Turbine</b><br><br>
 •	The advantages of the Francis turbine include the following:<br>
 •	Wear and tear had delayed effect on efficiency of Francis turbine compared to Pelton turbine<br>
@@ -33,7 +33,7 @@ The pressure at the exit of the runner of Francis Turbine is generally less than
 •	Even at the low discharge of water, head failure does not occur
 •	Runner and generator size is small.<br>
 •	Only little changes in efficiency over the time<br>
-•	Operating head can be utilized even when the variation in tailwater level is relatively large when compared to the total head.<br>
+•	Operating head can be utilized even when the variation in tailwater level is relatively large when compared to the total head.<br><br>
 <b>Disadvantages of Francis Turbine</b><br>
 The disadvantages of the Francis turbine include the following.<br>
 •	Dirty water can cause extremely rapid wear in high head Francis turbine<br>
