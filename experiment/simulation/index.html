@@ -3,11 +3,352 @@
 <head>
 	<!-- Add CSS at the head of HTML file -->
     <link rel="stylesheet" href="./css/main.css">
+		
 </head>
 <body>
-		<!-- Your code goes here-->
 
-	<!-- Add JS at the bottom of HTML file --> 
-        <script src="./js/main.js"></script>
-</body>
-</html>
+	<audio id="audio" loop>
+		<source src="./images/motor_audio.mp3" type="audio/mpeg">
+	</audio>
+
+
+		<div class="sim" >
+			<p style="text-align: center;background-color: #634380;font-weight: bolder;padding: 6px 0 6px 0; font-size: larger;
+    		margin-top:0px;color: white">
+            Francis Simulation</p>
+			<div class="sim_table"  >
+				<div class="item1">
+
+					<div id="mycanvas" >
+
+						<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800px" height="500px" x="0px" y="0px"
+							 viewBox="0 0 1278.6 856.9" style="enable-background:new 0 0 1278.6 856.9;" xml:space="preserve">
+						<style type="text/css">
+							
+						</svg>
+
+						<div class="instruction">
+							<h5 ><u>Instructions</u></h5>
+							<p id="steps">Welcome to the Simulator! <br>Start the Simulator by using Power On Button.
+
+							</p>
+						</div>
+						
+						
+				
+
+							</div>
+							</div>
+
+
+
+							<button class="item2" type="button"  style="width:100%; border: solid #080808 3px;" id="enable" onclick="power()"> POWER ON </button>
+
+							<div class="item3" style="font-size: 20px; font-weight: bold; display: flex; flex-direction: row; gap: 20px; align-content: center; justify-content: center; align-self: auto; ">
+								Valve Positioning
+								<div style="display: flex; flex-direction: column">
+									
+									<input id="flow-rate-slider" list="markers" name ="slider" min="0" max="3" type="range" step="1" value="0" disabled="True" onchange="updateValvePositioning()" >
+								
+									<datalist id="values">
+										<option value="0" label="0"></option>
+										<option value="1" label="1"></option>
+										<option value="2" label="2"></option>
+										<option value="3" label="3"></option>
+									</datalist>
+
+								</div>
+								  
+							</div>
+
+
+							<button class="itemx" type="button"  style="width:100%; border: solid #080808 3px;" id="purze" disabled="True" onclick="purzeAction()"> CLOSE GATE VALVE </button>
+
+							<div class="page-break"></div>
+							<div class="item6">
+
+								<h1 style="text-align: center;">OBSERVATION</h1>
+
+								<div class="data-div">
+									<div class="item4" style="padding: 0%;display: flex;flex-direction: column;gap: 5px;">
+										<h2 style="text-align: center;padding: .5%;margin: 0%;background-color: #634380;color: white;">Formulaes</h2>
+										
+										<p style="text-align: center;  font-size:25px; font-weight: bolder; padding: 10px;">
+											<math style="font-weight: bold;" xmlns="http://www.w3.org/1998/Math/MathML">
+												<msub>
+													<mi>Q</mi>
+												
+												</msub>
+												<mo>&nbsp;=&nbsp;</mo>
+												<!-- <math xmlns="http://www.w3.org/1998/Math/MathML"> -->
+													<mi>k</mi>
+													
+													<msqrt>
+														<mi>h</mi>
+													</msqrt>
+													
+													<mi>&nbsp;LPM</mi>
+												
+											</math>
+		
+											
+		
+										</p>
+
+
+										<p style="text-align: center;  font-size:25px; font-weight: bolder; padding: 10px;">
+											
+											<math style="font-weight: bold;" xmlns="http://www.w3.org/1998/Math/MathML">
+												
+												<msub>
+													<mi>B.P</mi>
+													<mo stretchy="false">(</mo>
+													<mrow class="MJX-TeXAtom-ORD">
+														<mi>Output</mi>
+													</mrow>
+													<mo stretchy="false">)</mo>
+												</msub>
+												<mo>&nbsp;=&nbsp;</mo>
+												<mfrac>
+													<mrow>
+														<mn>2</mn>
+														<mo>&#x03C0;</mo> <!-- Pi symbol (π) -->
+														<mi>NWReg</mi>
+													</mrow>
+													<mn>60000</mn>
+												</mfrac>
+												<mi>&nbsp;&nbsp;kW</mi>
+												
+											</math>
+											
+										</p>
+										<p style="text-align: center; font-size: 25px; font-weight: bolder; padding: 10px;">
+											<math style="font-weight: bold;" xmlns="http://www.w3.org/1998/Math/MathML">
+												<msub>
+													<mi>W.P</mi>
+													<mo stretchy="false">(</mo>
+													<mrow class="MJX-TeXAtom-ORD">
+														<mi>input</mi>
+													</mrow>
+													<mo stretchy="false">)</mo>
+												</msub>
+												<mo>&nbsp;=&nbsp;</mo>
+												<mfrac>
+													<mrow>
+														<mi>wQh</mi>
+													</mrow>
+													<mn>1000</mn>
+												</mfrac>
+												
+												<mi>&nbsp;&nbsp;kW</mi>
+											</math>
+										</p>
+										
+										<p style="text-align: center; font-size: 25px; font-weight: bolder; padding: 10px;">
+											<math style="font-weight: bold;" xmlns="http://www.w3.org/1998/Math/MathML">
+												<msub>
+													<mover>
+														<mi>n</mi>
+														
+													</mover>
+													<mrow class="MJX-TeXAtom-ORD">
+														<mo>&#x25CB;</mo> <!-- Small circle character -->
+													</mrow>
+												</msub>
+												<mo>&nbsp;=&nbsp;</mo>
+												<mfrac>
+													<msub>
+														<mi>B.P</mi>
+														
+													</msub>
+													<msub>
+														<mi>W.P</mi>
+														
+													</msub>
+												</mfrac>
+											</math>
+										</p>
+		
+									</div> 
+		
+		
+									<div class="item5" style="padding: 0%;">
+										<h2 style="text-align: center;padding: .5%;margin: 0%;background-color: #634380;color: white;">Provided Data</h2>
+										
+										<p style="text-align: center; line-height: 40px; font-size: 20px;  font-weight: bolder; margin: 10px; padding: 20px;">
+											
+												Brake drum diameter, D=70mm <br>
+												Distance of inlet pressure gauge from turbine axis, z<sub>1</sub>=21cm <br>
+												Distance of outlet pressure gauge from turbine axis, z<sub>2</sub>=7.5cm<br>
+												Diameter of inlet pipe, d<sub>1</sub>=65mm<br>
+												Diameter of outlet pipe, d<sub>2</sub>=38.45mm<br>
+												Venturimeter constant, K=35.7
+											
+		
+											
+											
+										</p>
+										
+									</div> 
+
+								</div>
+
+								<table id="tab1" border="1">
+									<tr>
+										<th colspan="7" style="font-size: 25px; font-weight: bolder; background-color: #634380;color: white;">Observation Table</th>
+									</tr>
+									
+										<tr>
+											<th>S.No:</th>
+											<th>Gate Valve <br> Opening %</th>
+											<th colspan="2">Gauge Pressure (Kg cm<sup>2</sup>)</th>
+											<th>N (RPM)</th>
+											<th>Break Weight (W<sub>1</sub>)</th>
+											<th>Spring Weight (W<sub>2</sub>)</th>
+										</tr>
+										<tr>
+											<td></td>
+											<td></td>
+											<td style="text-align: center;">P<sub>1</sub></td>
+											<td style="text-align: center;">P<sub>2</sub></td>
+											<td></td>
+											<td></td>
+											<td></td>
+										</tr>
+									
+									
+									<tr>
+										<td>1.</td>
+										<td id="H1"><input type="number"></td>
+										<td id="T1"><input type="number"></td>
+										<td id="Qt1"><input type="number"></td>
+										<td id="Qact01"><input type="number"></td>
+										<td id="Qact12"><input type="number"></td>
+										<td id="Qact13"><input type="number"></td>
+										
+										
+									</tr>
+									<tr>
+										<td>2.</td>
+										<td id="H2"><input type="number"></td>
+										<td id="T2"><input type="number"></td>
+										<td id="Qt2"><input type="number"></td>
+										<td id="Qact2"><input type="number"></td>
+										<td id="Cd2"><input type="number"></td>
+										<td id="Cd02"><input type="number"></td>
+									</tr>
+									
+									<tr>
+										<td>3.</td>
+										<td id="H3"><input type="number"></td>
+										<td id="T3"><input type="number"></td>
+										<td id="Qt3"><input type="number"></td>
+										<td id="Qact3"><input type="number"></td>
+										<td id="Cd3"><input type="number"></td>
+										<td id="Cd31"><input type="number"></td>
+									</tr>
+									<tr>
+										<td>4.</td>
+										<td id="H3"><input type="number"></td>
+										<td id="T3"><input type="number"></td>
+										<td id="Qt3"><input type="number"></td>
+										<td id="Qact3"><input type="number"></td>
+										<td id="Qact03"><input type="number"></td>
+										<td id="Cd30"><input type="number"></td>
+									</tr>
+								</table>
+
+
+								<table id="tab1" class="result-table" border="1"> <!-- style="display: none; -->
+									<tr>
+										<th colspan="9" style="font-size: 25px; font-weight: bolder; background-color: #634380;color: white;">Observation Table</th>
+									</tr>
+									<tr>
+										<th>S. No</th>
+										<th>Head (m)</th>
+										<th>Discharge (m<sup>3</sup>/s)</th>
+										<th>Torque (N m)</th>
+										<th>Water Head acting on turbine (m)</th>
+										<th>Input Power (kW)</th>
+										<th>Output Power (kW)</th>
+										<th>Efficiency (%)</th>
+										<th>Avg. Efficiency</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>1</td>
+										<td>1.2334E-03</td>
+										<td>1.254</td>
+										<td>0.0126</td>
+										<td>0.135</td>
+										<td>1.660</td>
+										<td>1.299</td>
+										<td>78.20</td>
+										<td rowspan="4">54.54</td>
+									</tr>
+									<tr>
+										<td>2</td>
+										<td>1.8552E-03</td>
+										<td>1.538</td>
+										<td>0.00945</td>
+										<td>0.135</td>
+										<td>2.036</td>
+										<td>1.013</td>
+										<td>49.77</td>
+										
+									</tr>
+									<tr>
+										<td>3</td>
+										<td>2.2324E-03</td>
+										<td>1.687</td>
+										<td>0.0105</td>
+										<td>0.135</td>
+										<td>2.234</td>
+										<td>1.001</td>
+										<td>44.80</td>
+										
+									</tr>
+									<tr>
+										<td>4</td>
+										<td>2.7829E-03</td>
+										<td>1.883</td>
+										<td>0.0126</td>
+										<td>0.135</td>
+										<td>2.494</td>
+										<td>1.132</td>
+										<td>45.40</td>
+										
+									</tr>
+								</table>
+
+								<button type="button" class="checkYourResult" style="border: solid black 3px; border-radius: 5px; padding: 5px;" onclick="calculate()" >Calculate</button>
+
+								<button id="check-button" type="button" class="checkYourResult" style="border: solid black 3px; border-radius: 5px; padding: 5px;" disabled="true" onclick="checkYourResult()" >Check Your Result</button>
+
+								<div  style="margin:auto; display: flex; gap: 40px ;">
+									<button style=" margin-bottom: 40px; border: solid black 3px; border-radius: 5px; padding: 5px; " onclick="window.print()">Print this page</button>
+									
+								</div>
+
+
+							</div>
+
+
+						</div>
+					</div> 
+
+						
+
+
+						
+
+						
+
+				<!-- Add JS at the bottom of HTML file --> 
+				<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+				<script src="https://apis.google.com/js/api.js"></script>
+					<script src="./js/main.js"></script>
+					<script src="./js/calculation.js"></script>
+			</body>
+			</html>
