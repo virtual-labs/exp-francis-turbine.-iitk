@@ -10,10 +10,10 @@
         "d": "To reduce material used, hence making it economical"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is to ensure constant velocity. The spiral casing or volute of a Francis turbine is designed to gradually decrease in cross-sectional area to maintain a constant velocity of the water as it approaches the runner, ensuring efficient energy transfer.",
+        "b": "The correct answer is to ensure constant velocity. The spiral casing or volute of a Francis turbine is designed to gradually decrease in cross-sectional area to maintain a constant velocity of the water as it approaches the runner, ensuring efficient energy transfer.",
+        "c": "The correct answer is to ensure constant velocity. The spiral casing or volute of a Francis turbine is designed to gradually decrease in cross-sectional area to maintain a constant velocity of the water as it approaches the runner, ensuring efficient energy transfer.",
+        "d": "The correct answer is to ensure constant velocity. The spiral casing or volute of a Francis turbine is designed to gradually decrease in cross-sectional area to maintain a constant velocity of the water as it approaches the runner, ensuring efficient energy transfer."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Overall efficiency"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is overall efficiency. Overall efficiency takes into account all losses (hydraulic, mechanical, and volumetric) and is the ratio of the power output at the shaft to the power input by the water.",
+        "b": "The correct answer is overall efficiency. Overall efficiency takes into account all losses (hydraulic, mechanical, and volumetric) and is the ratio of the power output at the shaft to the power input by the water.",
+        "c": "The correct answer is overall efficiency. Overall efficiency takes into account all losses (hydraulic, mechanical, and volumetric) and is the ratio of the power output at the shaft to the power input by the water.",
+        "d": "The correct answer is overall efficiency. Overall efficiency takes into account all losses (hydraulic, mechanical, and volumetric) and is the ratio of the power output at the shaft to the power input by the water."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Overall efficiency"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is hydraulic efficiency. Hydraulic efficiency measures how effectively the turbine converts the hydraulic energy of the water into mechanical energy in the runner.",
+        "b": "The correct answer is hydraulic efficiency. Hydraulic efficiency measures how effectively the turbine converts the hydraulic energy of the water into mechanical energy in the runner.",
+        "c": "The correct answer is hydraulic efficiency. Hydraulic efficiency measures how effectively the turbine converts the hydraulic energy of the water into mechanical energy in the runner.",
+        "d": "The correct answer is hydraulic efficiency. Hydraulic efficiency measures how effectively the turbine converts the hydraulic energy of the water into mechanical energy in the runner."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "Overall efficiency"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is volumetric efficiency. Volumetric efficiency accounts for the amount of water that passes through the turbine and is effectively used for power generation, considering leakage losses.",
+        "b": "The correct answer is volumetric efficiency. Volumetric efficiency accounts for the amount of water that passes through the turbine and is effectively used for power generation, considering leakage losses.",
+        "c": "The correct answer is volumetric efficiency. Volumetric efficiency accounts for the amount of water that passes through the turbine and is effectively used for power generation, considering leakage losses.",
+        "d": "The correct answer is volumetric efficiency. Volumetric efficiency accounts for the amount of water that passes through the turbine and is effectively used for power generation, considering leakage losses."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "Overall efficiency"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is mechanical efficiency. Mechanical efficiency considers the losses in the mechanical components of the turbine (e.g., bearings, seals) and is the ratio of the power delivered by the shaft to the power produced by the runner.",
+        "b": "The correct answer is mechanical efficiency. Mechanical efficiency considers the losses in the mechanical components of the turbine (e.g., bearings, seals) and is the ratio of the power delivered by the shaft to the power produced by the runner.",
+        "c": "The correct answer is mechanical efficiency. Mechanical efficiency considers the losses in the mechanical components of the turbine (e.g., bearings, seals) and is the ratio of the power delivered by the shaft to the power produced by the runner.",
+        "d": "The correct answer is mechanical efficiency. Mechanical efficiency considers the losses in the mechanical components of the turbine (e.g., bearings, seals) and is the ratio of the power delivered by the shaft to the power produced by the runner."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -95,10 +95,10 @@
         "d": "Runner"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is draft tube. The draft tube is used to convert the kinetic energy of the water exiting the turbine into pressure energy, allowing the turbine to be placed above the tailwater level and improving the overall efficiency.",
+        "b": "The correct answer is draft tube. The draft tube is used to convert the kinetic energy of the water exiting the turbine into pressure energy, allowing the turbine to be placed above the tailwater level and improving the overall efficiency.",
+        "c": "The correct answer is draft tube. The draft tube is used to convert the kinetic energy of the water exiting the turbine into pressure energy, allowing the turbine to be placed above the tailwater level and improving the overall efficiency.",
+        "d": "The correct answer is draft tube. The draft tube is used to convert the kinetic energy of the water exiting the turbine into pressure energy, allowing the turbine to be placed above the tailwater level and improving the overall efficiency."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -112,10 +112,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is both (a) and (b). Hydraulic turbines utilize both the potential energy (due to the height of water) and kinetic energy (due to the flow velocity) to generate mechanical energy.",
+        "b": "The correct answer is both (a) and (b). Hydraulic turbines utilize both the potential energy (due to the height of water) and kinetic energy (due to the flow velocity) to generate mechanical energy.",
+        "c": "The correct answer is both (a) and (b). Hydraulic turbines utilize both the potential energy (due to the height of water) and kinetic energy (due to the flow velocity) to generate mechanical energy.",
+        "d": "The correct answer is both (a) and (b). Hydraulic turbines utilize both the potential energy (due to the height of water) and kinetic energy (due to the flow velocity) to generate mechanical energy."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -129,12 +129,12 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is low pressure. Cavitation happens when the local pressure drops below the vapor pressure of the fluid, causing vapor bubbles to form, which can implode and damage the turbine.",
+        "b": "The correct answer is low pressure. Cavitation happens when the local pressure drops below the vapor pressure of the fluid, causing vapor bubbles to form, which can implode and damage the turbine.",
+        "c": "The correct answer is low pressure. Cavitation happens when the local pressure drops below the vapor pressure of the fluid, causing vapor bubbles to form, which can implode and damage the turbine.",
+        "d": "The correct answer is low pressure. Cavitation happens when the local pressure drops below the vapor pressure of the fluid, causing vapor bubbles to form, which can implode and damage the turbine."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
@@ -146,10 +146,10 @@
         "d": "Fracture"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is erosion. Cavitation causes erosion of turbine components due to the repeated formation and collapse of vapor bubbles, which leads to material loss and surface pitting.",
+        "b": "The correct answer is erosion. Cavitation causes erosion of turbine components due to the repeated formation and collapse of vapor bubbles, which leads to material loss and surface pitting.",
+        "c": "The correct answer is erosion. Cavitation causes erosion of turbine components due to the repeated formation and collapse of vapor bubbles, which leads to material loss and surface pitting.",
+        "d": "The correct answer is erosion. Cavitation causes erosion of turbine components due to the repeated formation and collapse of vapor bubbles, which leads to material loss and surface pitting."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -163,10 +163,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is radially, axially. In mixed flow turbines like the Francis turbine, water enters the runner radially and exits axially, allowing efficient energy transfer and optimal design for a range of heads and flows.",
+        "b": "The correct answer is radially, axially. In mixed flow turbines like the Francis turbine, water enters the runner radially and exits axially, allowing efficient energy transfer and optimal design for a range of heads and flows.",
+        "c": "The correct answer is radially, axially. In mixed flow turbines like the Francis turbine, water enters the runner radially and exits axially, allowing efficient energy transfer and optimal design for a range of heads and flows.",
+        "d": "The correct answer is radially, axially. In mixed flow turbines like the Francis turbine, water enters the runner radially and exits axially, allowing efficient energy transfer and optimal design for a range of heads and flows."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
