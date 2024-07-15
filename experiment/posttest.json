@@ -109,7 +109,7 @@
         "a": "Potential energy",
         "b": "Kinetic energy",
         "c": "both (a) and (b)",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is both (a) and (b). Hydraulic turbines utilize both the potential energy (due to the height of water) and kinetic energy (due to the flow velocity) to generate mechanical energy.",
@@ -126,7 +126,7 @@
         "a": "High pressure",
         "b": "Low pressure",
         "c": "Atmospheric pressure",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is low pressure. Cavitation happens when the local pressure drops below the vapor pressure of the fluid, causing vapor bubbles to form, which can implode and damage the turbine.",
@@ -160,7 +160,7 @@
         "a": "Axially, radially",
         "b": "Radially, axially",
         "c": "Both (a) and (b)",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is radially, axially. In mixed flow turbines like the Francis turbine, water enters the runner radially and exits axially, allowing efficient energy transfer and optimal design for a range of heads and flows.",
