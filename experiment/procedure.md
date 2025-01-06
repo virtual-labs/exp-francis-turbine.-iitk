@@ -9,20 +9,20 @@
 6.	Rope brake dynamometer with spring balance connected to the turbine shaft.<br><br>
 
 <b>Formulae </b><br><br>
-1.	V<sub>1</sub>=Q/(π/4) d<sub>1</sub><sup>2</sup> <br><br>
-Where V<sub>1</sub> is absolute velocity of water entering<br><br>
-V<sub>2</sub> is absolute velocity of water leaving<br><br>
-Q= discharge<br><br>
-d<sub>1</sub>= Dia. of Inlet pipe <br><br>
-d<sub>2</sub>= Dia. of outlet pipe<br><br>
+1.	V<sub>1</sub>=Q/(π/4) d<sub>1</sub><sup>2</sup>    V<sub>2</sub>=Q/(π/4) d<sub>2</sub><sup>2</sup><br><br>
+Where, V<sub>1</sub> is absolute velocity of water entering<br><br>
+      V<sub>2</sub> is absolute velocity of water leaving<br><br>
+      Q= discharge<br><br>
+      d<sub>1</sub>= Dia. of Inlet pipe <br><br>
+      d<sub>2</sub>= Dia. of outlet pipe<br><br>
 2. H= (P<sub>1</sub>/w-P<sub>2</sub>/w)+ (V<sub>1</sub><sup>2</sup>- V<sub>2</sub><sup>2</sup>/2g)+ (Z<sub>1</sub>- Z<sub>2</sub> )<br>
 Where, Z<sub>1</sub> = Distance of inlet pressure gauge from turbine axis  <br><br>
-Z<sub>2</sub>  =Distance of inlet pressure gauge from turbine axis 
-w = Specific weight of water<br><br>
+       Z<sub>2</sub>  =Distance of inlet pressure gauge from turbine axis 
+       w = Specific weight of water<br><br>
 3. Input power: P<sub>i</sub>=(w×Q×H)/75 <br><br>
 4. Output Power: P<sub>o</sub>=((W-S)×π×D×N)/4500<br><br>
 Where, D = Mean Diameter of the break drum<br><br>
-N = Speed of motor in RPM<br><br>
+       N = Speed of motor in RPM<br><br>
 5. η=P<sub>o</sub>/P<sub>i</sub> ×100<br><br>
 
 <b>	Procedure – </b><br>
