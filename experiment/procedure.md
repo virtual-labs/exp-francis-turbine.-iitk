@@ -9,7 +9,8 @@
 6.	Rope brake dynamometer with spring balance connected to the turbine shaft.<br><br>
 
 <b>Formulae </b><br><br>
-1.	V<sub>1</sub>=Q/(π/4) d<sub>1</sub><sup>2</sup>    V<sub>2</sub>=Q/(π/4) d<sub>2</sub><sup>2</sup><br><br>
+1.	V<sub>1</sub>=Q/(π/4) d<sub>1</sub><sup>2</sup><br>
+V<sub>2</sub>=Q/(π/4) d<sub>2</sub><sup>2</sup><br><br>
 Where, V<sub>1</sub> is absolute velocity of water entering<br><br>
       V<sub>2</sub> is absolute velocity of water leaving<br><br>
       Q= discharge<br><br>
@@ -43,7 +44,7 @@ Where D<sub>d</sub> = diameter of the drum, Dr = diameter of rope<br>
 4. Distance of inlet pressure gauge from turbine axis Z<sub>1</sub>  =<br>
 5. Distance of inlet pressure gauge from turbine axis Z<sub>2</sub>  =<br>
 6.Venturi meter constant,  k = 35.7  Q=k √h <br>  
-<image src="images/L.PNG"><br>
+<image src="images/image7.png"><br>
 
 <b> Calculations</b><br>
 1. V<sub>1</sub>=Q/((π/4) 〖d<sub>1</sub>〗<sup>2</sup> )      V<sub>2</sub>=Q/((π/4) 〖d<sub>2</sub>〗<sup>2</sup> )<br>
