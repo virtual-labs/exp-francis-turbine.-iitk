@@ -7,13 +7,13 @@
         "a": "Both Pelton and Francis turbine are impulse turbine",
         "b": "Kaplan turbine is radial flow reaction turbine",
         "c": "Francis turbine is mixed flow reaction turbine",
-        "d": "None of the above"
+        "d": "Kaplan turbine is impulse turbine"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Francis turbine is mixed flow reaction turbine. A Francis turbine combines radial and axial flow to convert hydraulic energy into mechanical energy. It is a reaction turbine, which means it operates with pressure changes across the turbine blades.",
+        "b": "The correct answer is Francis turbine is mixed flow reaction turbine. A Francis turbine combines radial and axial flow to convert hydraulic energy into mechanical energy. It is a reaction turbine, which means it operates with pressure changes across the turbine blades.",
+        "c": "The correct answer is Francis turbine is mixed flow reaction turbine. A Francis turbine combines radial and axial flow to convert hydraulic energy into mechanical energy. It is a reaction turbine, which means it operates with pressure changes across the turbine blades.",
+        "d": "The correct answer is Francis turbine is mixed flow reaction turbine. A Francis turbine combines radial and axial flow to convert hydraulic energy into mechanical energy. It is a reaction turbine, which means it operates with pressure changes across the turbine blades."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "40 m"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is 40 m. Francis turbines are versatile and can operate over a wide range of heads, typically from about 40 m to several hundred meters, making them suitable for medium head applications.>",
+        "b": "The correct answer is 40 m. Francis turbines are versatile and can operate over a wide range of heads, typically from about 40 m to several hundred meters, making them suitable for medium head applications.",
+        "c": "The correct answer is 40 m. Francis turbines are versatile and can operate over a wide range of heads, typically from about 40 m to several hundred meters, making them suitable for medium head applications.",
+        "d": "The correct answer is 40 m. Francis turbines are versatile and can operate over a wide range of heads, typically from about 40 m to several hundred meters, making them suitable for medium head applications."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -41,13 +41,13 @@
         "a": "Pelton",
         "b": "Francis",
         "c": "Kaplan",
-        "d": "None of the above"
+        "d": "Francis and Kaplan"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Francis. Francis turbines typically have a larger number of blades compared to Pelton and Kaplan turbines. This design helps to efficiently manage the energy conversion in the mixed flow conditions.",
+        "b": "The correct answer is Francis. Francis turbines typically have a larger number of blades compared to Pelton and Kaplan turbines. This design helps to efficiently manage the energy conversion in the mixed flow conditions.",
+        "c": "The correct answer is Francis. Francis turbines typically have a larger number of blades compared to Pelton and Kaplan turbines. This design helps to efficiently manage the energy conversion in the mixed flow conditions.",
+        "d": "The correct answer is Francis. Francis turbines typically have a larger number of blades compared to Pelton and Kaplan turbines. This design helps to efficiently manage the energy conversion in the mixed flow conditions."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -58,13 +58,13 @@
         "a": "more",
         "b": "same",
         "c": "less",
-        "d": "None of the above"
+        "d": "Either more and equal"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is more. In a Francis turbine, the pressure at the inlet is higher than the pressure at the outlet because the water loses its pressure energy as it flows through the turbine, converting it to mechanical energy.>",
+        "b": "The correct answer is more. In a Francis turbine, the pressure at the inlet is higher than the pressure at the outlet because the water loses its pressure energy as it flows through the turbine, converting it to mechanical energy.",
+        "c": "The correct answer is more. In a Francis turbine, the pressure at the inlet is higher than the pressure at the outlet because the water loses its pressure energy as it flows through the turbine, converting it to mechanical energy.",
+        "d": "The correct answer is more. In a Francis turbine, the pressure at the inlet is higher than the pressure at the outlet because the water loses its pressure energy as it flows through the turbine, converting it to mechanical energy."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -75,13 +75,13 @@
         "a": "completely into velocity head",
         "b": "completely into pressure head",
         "c": "partially into velocity head and pressure head",
-        "d": "None of the above"
+        "d": "partially into velocity head and completely pressure head"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is partially into velocity head and pressure head. In a Francis turbine, the available head is converted into both pressure and velocity heads as the water flows through the spiral casing, runner, and draft tube.",
+        "b": "The correct answer is partially into velocity head and pressure head. In a Francis turbine, the available head is converted into both pressure and velocity heads as the water flows through the spiral casing, runner, and draft tube.",
+        "c": "The correct answer is partially into velocity head and pressure head. In a Francis turbine, the available head is converted into both pressure and velocity heads as the water flows through the spiral casing, runner, and draft tube.",
+        "d": "The correct answer is partially into velocity head and pressure head. In a Francis turbine, the available head is converted into both pressure and velocity heads as the water flows through the spiral casing, runner, and draft tube."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -94,10 +94,10 @@
         "d": "airfoil"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is airfoil. The blades of a Francis turbine are shaped like airfoils to optimize the efficiency of energy conversion from water to mechanical energy by reducing drag and enhancing lift.",
+        "b": "The correct answer is airfoil. The blades of a Francis turbine are shaped like airfoils to optimize the efficiency of energy conversion from water to mechanical energy by reducing drag and enhancing lift.",
+        "c": "The correct answer is airfoil. The blades of a Francis turbine are shaped like airfoils to optimize the efficiency of energy conversion from water to mechanical energy by reducing drag and enhancing lift.",
+        "d": "The correct answer is airfoil. The blades of a Francis turbine are shaped like airfoils to optimize the efficiency of energy conversion from water to mechanical energy by reducing drag and enhancing lift."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -111,10 +111,10 @@
         "d": "outward flow impulse turbine"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is inward flow reaction turbine. In a Francis turbine, water flows radially inward and exits axially, making it an inward flow reaction turbine. The energy conversion involves both pressure and velocity changes.",
+        "b": "The correct answer is inward flow reaction turbine. In a Francis turbine, water flows radially inward and exits axially, making it an inward flow reaction turbine. The energy conversion involves both pressure and velocity changes.",
+        "c": "The correct answer is inward flow reaction turbine. In a Francis turbine, water flows radially inward and exits axially, making it an inward flow reaction turbine. The energy conversion involves both pressure and velocity changes.",
+        "d": "The correct answer is inward flow reaction turbine. In a Francis turbine, water flows radially inward and exits axially, making it an inward flow reaction turbine. The energy conversion involves both pressure and velocity changes."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -128,10 +128,10 @@
         "d": "Cavitation"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is cavitation. Cavitation occurs when local pressures drop below the vapor pressure of the fluid, leading to the formation of vapor bubbles which can cause significant damage to the turbine blades and reduce efficiency.",
+        "b": "The correct answer is cavitation. Cavitation occurs when local pressures drop below the vapor pressure of the fluid, leading to the formation of vapor bubbles which can cause significant damage to the turbine blades and reduce efficiency.",
+        "c": "The correct answer is cavitation. Cavitation occurs when local pressures drop below the vapor pressure of the fluid, leading to the formation of vapor bubbles which can cause significant damage to the turbine blades and reduce efficiency.",
+        "d": "The correct answer is cavitation. Cavitation occurs when local pressures drop below the vapor pressure of the fluid, leading to the formation of vapor bubbles which can cause significant damage to the turbine blades and reduce efficiency."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -145,10 +145,10 @@
         "d": "Pump"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is draft tube. The draft tube is a critical component in Francis turbines, designed to recover the kinetic energy of the water exiting the turbine and convert it back into pressure energy, improving overall efficiency.",
+        "b": "The correct answer is draft tube. The draft tube is a critical component in Francis turbines, designed to recover the kinetic energy of the water exiting the turbine and convert it back into pressure energy, improving overall efficiency.",
+        "c": "The correct answer is draft tube. The draft tube is a critical component in Francis turbines, designed to recover the kinetic energy of the water exiting the turbine and convert it back into pressure energy, improving overall efficiency.",
+        "d": "The correct answer is draft tube. The draft tube is a critical component in Francis turbines, designed to recover the kinetic energy of the water exiting the turbine and convert it back into pressure energy, improving overall efficiency.2"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -162,10 +162,10 @@
         "d": "5000 kW and above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is 5 kW to 800 MW. Francis turbines are suitable for a wide range of power outputs, making them versatile for various hydroelectric applications from small to very large power plants.",
+        "b": "The correct answer is 5 kW to 800 MW. Francis turbines are suitable for a wide range of power outputs, making them versatile for various hydroelectric applications from small to very large power plants.",
+        "c": "The correct answer is 5 kW to 800 MW. Francis turbines are suitable for a wide range of power outputs, making them versatile for various hydroelectric applications from small to very large power plants.",
+        "d": "The correct answer is 5 kW to 800 MW. Francis turbines are suitable for a wide range of power outputs, making them versatile for various hydroelectric applications from small to very large power plants."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
