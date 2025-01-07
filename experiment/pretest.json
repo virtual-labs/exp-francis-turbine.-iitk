@@ -7,7 +7,7 @@
         "a": "Both Pelton and Francis turbine are impulse turbine",
         "b": "Kaplan turbine is radial flow reaction turbine",
         "c": "Francis turbine is mixed flow reaction turbine",
-        "d": "None of these"
+        "d": "Kaplan turbine is impulse turbine"
       },
       "explanations": {
         "a": "The correct answer is Francis turbine is mixed flow reaction turbine. A Francis turbine combines radial and axial flow to convert hydraulic energy into mechanical energy. It is a reaction turbine, which means it operates with pressure changes across the turbine blades.",
