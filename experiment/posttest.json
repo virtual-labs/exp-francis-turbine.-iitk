@@ -126,7 +126,7 @@
         "a": "High pressure",
         "b": "Low pressure",
         "c": "Atmospheric pressure",
-        "d": "None of these"
+        "d": "High and low pressure"
       },
       "explanations": {
         "a": "The correct answer is low pressure. Cavitation happens when the local pressure drops below the vapor pressure of the fluid, causing vapor bubbles to form, which can implode and damage the turbine.",
@@ -160,7 +160,7 @@
         "a": "Axially, radially",
         "b": "Radially, axially",
         "c": "Both (a) and (b)",
-        "d": "None of these"
+        "d": "Radially, radially"
       },
       "explanations": {
         "a": "The correct answer is radially, axially. In mixed flow turbines like the Francis turbine, water enters the runner radially and exits axially, allowing efficient energy transfer and optimal design for a range of heads and flows.",
